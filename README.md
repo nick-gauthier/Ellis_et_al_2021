@@ -10,11 +10,11 @@ This repository contains the code for our paper:
 
 Data required for these analyses is available online here:
 
-> Gauthier, N., Ellis, E.C., K. Klein Goldewijk, (2021), *Anthromes 12k DGG Input Data*. Online at Harvard Dataverse,
-> <https://doi.org/10.7910/DVN/JWEEAH>
+> Gauthier, N., Ellis, E.C., K. Klein Goldewijk, (2021), *Anthromes 12K DGG (V1) Full Dataset*. Online at Harvard Dataverse,
+> <https://doi.org/10.7910/DVN/E3H3AK>
 
 This code is sufficient to reproduce all analyses and figures presented in the main text and supplement (excluding maps).
-Please see the *anthromes* R package available at <https://github.com/nick-gauthier/anthromes> for a more up-to-date version of this codebase including additional features, performance improvements,
+Please see the *anthromes* R package available at <https://github.com/nick-gauthier/anthromes> for a more up-to-date version of this codebase that includes additional features, performance improvements,
 and documentation.
 
 ### How to cite
